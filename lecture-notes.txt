@@ -20,6 +20,11 @@ instead of
 "I did this"
 
 
+To remove a file from the staging index
+git reset "filename.text"
+
+To remove all files from the staging index
+git reset
 
 
 
