@@ -8,7 +8,7 @@ git init
 ## Get the status of the current folder/repo
 git status
 
-## Clone a github repo into the current folder without creating a new folder
+## Clone a github repo into the current folder without creating a new folder (Current folder must be empty or it will give an error message)
 git clone https://github.com/johnsie/SQL-Learning.git ./
 
 ## If a file has been changed it should show up in 'git status'. Add it to 'staging'
