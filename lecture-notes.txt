@@ -37,8 +37,9 @@ git config --global  core.editor "'file address of editor'"
 (Some editors require a  --wait parameter so check table at https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
 
 Git log formatting options
-git log --online
+git log --oneline
 (See documentation for further options)
+
 
 
 
