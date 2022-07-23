@@ -57,6 +57,8 @@ Git ignore
 To tell git to ignore certain files. Maybe secret files containing private data or system files
 Create a file called .gitignore which has a list of files and folders  that you want git to ignore
 To see examples have a look at the .gitigore files in some big github projects
+Wildcard * can also be used to ignore whole folders. See official docs for more info
+
 
 
 
