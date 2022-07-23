@@ -42,4 +42,24 @@ git log --oneline
 
 
 
+Amending a commit with amend
+
+If you accidentally commit a mistake
+Only works if you haven't done any more commits
+git add forgottenfilename
+git commit --amend
+This opens up the message editor so you can change the original commit message
+
+
+
+
+Git ignore
+To tell git to ignore certain files. Maybe secret files containing private data or system files
+Create a file called .gitignore which has a list of files and folders  that you want git to ignore
+To see examples have a look at the .gitigore files in some big github projects
+
+
+
+
+
 
