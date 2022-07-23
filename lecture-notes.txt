@@ -1,0 +1,25 @@
+Get Docs
+
+Git website has docs and a book
+
+
+
+
+Atomic Commits
+When possibe a commit should encompass a single feature change or fix.
+
+Add the files for one change, do the commit
+Add the files from the other change,do the commit
+To add all contents in a folder to staging:
+
+git add foldername/
+
+Git documentation official recommends commit messages are present tense imperative mood
+"Make this happen"
+instead of 
+"I did this"
+
+
+
+
+
