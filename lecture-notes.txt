@@ -28,3 +28,13 @@ git reset
 
 
 
+In larger projects a commit -m might not be enough. Instead do:
+git commit
+And write the commit message a text editor
+
+To change the default editor
+git config --global  core.editor "'file address of editor'"
+(Some editors require a  --wait parameter so check table at https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
+
+
+
